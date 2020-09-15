@@ -59,3 +59,13 @@ PGCN用图神经网络来学习proposal-proposal间的关系, 来实现对提名
 
 3. 首先需要将bmn生成的proposal解析成PGCN的格式, 然后开始训练, 训练完成后对测试集进行测试, 并将结果解析成提交格式. 
 
+### 依赖包下载
+链接：https://pan.baidu.com/s/1rQTotL9rnIjWkgqA5ksK3A 
+提取码：8n46
+### submit
+链接：https://pan.baidu.com/s/1MNORu7OWgvXwg1MvtHeaiw 
+提取码：pk4u
+### 预训练模型
+使用下面的链接下载并存放于userdata/modeldata
+链接：https://pan.baidu.com/s/1BabUgVARnFgxb0vxBc5U6g 
+提取码：wuzk
